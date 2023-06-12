@@ -83,7 +83,7 @@
 
 <div class="inputBox">
     <span>leaving:</span>
-    <input type="date " name="leaving">
+    <input type="date" name="leaving">
 </div>
 
 </div>
